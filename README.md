@@ -1,4 +1,4 @@
-# sql-retail-sales-analysis
+# SQL-retail-sales-analysis
 An end-to-end relational database analysis mapping retail sales performance. This project utilizes advanced SQL (CTEs, Window Functions, Subqueries) to calculate Customer Lifetime Value (CLV), Month-over-Month revenue growth, and product category performance.
 # Retail Sales Analytics: Customer Lifetime Value & Revenue Velocity
 
