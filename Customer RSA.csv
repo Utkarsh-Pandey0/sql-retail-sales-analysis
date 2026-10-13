@@ -1,0 +1,11 @@
+customer_id,first_name,last_name,email,city,state,age,gender
+1,James,Smith,james@email.com,"New York",NY,34,Male
+2,Mary,Johnson,mary@email.com,"Los Angeles",CA,28,Female
+3,Robert,Williams,robert@email.com,Chicago,IL,45,Male
+4,Patricia,Brown,pat@email.com,Houston,TX,31,Female
+5,Michael,Jones,mike@email.com,Phoenix,AZ,52,Male
+6,Linda,Garcia,linda@email.com,"New York",NY,27,Female
+7,David,Miller,david@email.com,"Los Angeles",CA,38,Male
+8,Barbara,Davis,barb@email.com,Chicago,IL,43,Female
+9,William,Martinez,will@email.com,Houston,TX,29,Male
+10,Susan,Wilson,susan@email.com,Phoenix,AZ,55,Female

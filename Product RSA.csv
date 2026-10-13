@@ -1,0 +1,11 @@
+product_id,product_name,category,price
+1,"Laptop Pro 15",Electronics,1200.00
+2,"Wireless Mouse",Electronics,25.99
+3,"USB-C Hub",Electronics,45.00
+4,"Office Chair",Furniture,299.99
+5,"Standing Desk",Furniture,499.99
+6,"Notebook Pack",Stationery,12.99
+7,"Ballpoint Pens",Stationery,8.49
+8,"Monitor 27"",Electronics,349.99
+9,"Desk Lamp",Furniture,39.99
+10,"Mechanical Keyboard",Electronics,129.99
